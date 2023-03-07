@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimart">#00BCD4</color>
+    <color name="colorPrimartDark">#006064</color>
+    <color name="colorPrimartLigth">#4DD0E1</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="prymary_text">#212121</color>
+    <color name="secundary_text">#757575</color>
+    <color name="icon">#212121</color>
+    <color name="driver">#BDBDBD</color>
+</resources>
